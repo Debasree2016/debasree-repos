@@ -1,2 +1,0 @@
-# debasree-repos
-first repository 
